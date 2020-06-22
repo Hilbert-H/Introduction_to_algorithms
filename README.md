@@ -18,3 +18,5 @@ Algorithms Implementation with C++ in &lt;&lt;Introduction to Algorithms>>
 # Chapter 4
 
 006_max_subarray
+
+007_max_subarray2
