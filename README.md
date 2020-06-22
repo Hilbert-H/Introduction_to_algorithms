@@ -14,3 +14,7 @@ Algorithms Implementation with C++ in &lt;&lt;Introduction to Algorithms>>
 004_horner_polynominal
   
 005_inversion_count
+
+# Chapter 4
+
+006_max_subarray
