@@ -20,3 +20,7 @@ Algorithms Implementation with C++ in &lt;&lt;Introduction to Algorithms>>
 006_max_subarray
 
 007_max_subarray2
+
+008_strassen_matrix_multiply
+
+matrix.hpp
